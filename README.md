@@ -1,6 +1,6 @@
 # Windows Forms App for SQL Database Operations
 
-![App Screenshot](/path/to/screenshot.png)
+![App Screenshot]([/path/to/screenshot.png](https://drive.google.com/file/d/1em76EH5w9nCxFXtAFSmiYDzXYP8YFyVm/view?usp=sharing))
 
 This simple Windows Forms application allows you to perform basic SQL database operations such as connecting to a database, retrieving records, counting records, and inserting records. It is a great starting point for learning how to work with databases in C# using the Windows Forms framework.
 
